@@ -59,7 +59,7 @@ const NotFound = () => {
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/celebalelearning'>
       <div>
         <h1>eLearning App</h1>
         <Routes>
@@ -72,4 +72,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default App;
