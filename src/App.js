@@ -18,7 +18,7 @@ const coursesData = [
     description: 'Introduction to HTML and CSS.',
   },
 ];
-//react router
+
 const CourseList = () => {
   return (
     <div>
